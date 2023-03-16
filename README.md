@@ -27,6 +27,8 @@ https://github.com/Yeyo-993/Desarrollo-tema-WP-para-FLP.git
 
 Es un ecommerce para la venta de herramienrtas de construccion la aplicacion web fue desarrollada con HTML, CSS, JavaScript y PHP usando WordPress como CMS.
 
+También tengo mas proyecto en mi GitHub si gustas puedes verlos!
+
 
 ## 📩 Contacto
 Si estás interesado en mi perfil y quieres conocer más acerca de mis habilidades y experiencia, no dudes en contactarme por slrs993@gmail.com o por https://www.linkedin.com/in/sergio-reinoso/.

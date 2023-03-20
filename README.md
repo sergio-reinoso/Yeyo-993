@@ -23,7 +23,7 @@ En este puesto, trabajé en el desarrollo y mantenimiento de sitios web usando W
 
 ## 🚀 Proyectos
 Ecommerce Ferreteria Luis Penagos: https://ferreterialuispenagos.com
-https://github.com/Yeyo-993/Desarrollo-tema-WP-para-FLP.git
+Repositorio: https://github.com/Yeyo-993/Desarrollo-tema-WP-para-FLP.git
 
 Es un ecommerce para la venta de herramienrtas de construccion la aplicacion web fue desarrollada con HTML, CSS, JavaScript y PHP usando WordPress como CMS.
 

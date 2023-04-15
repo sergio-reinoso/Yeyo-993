@@ -1,7 +1,7 @@
 # 👋 Hola Mundo, soy Sergio Reinoso
 
 ## 👨‍💻 Sobre mí
-Soy tecnólogo en análisis y desarrollo de sistemas de información con experiencia en el desarrollo de aplicaciones web con WordPress. Actualmente, estoy buscando oportunidades laborales como desarrollador frontend con React y backend con Node y Java.
+Soy Ingeniero de sistemas y tecnólogo en análisis y desarrollo de sistemas de información con experiencia en el desarrollo de aplicaciones web con WordPress. Actualmente, estoy buscando oportunidades laborales como desarrollador frontend con React y backend con Node y Java.
 
 ## 🛠️ Tecnologías
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
